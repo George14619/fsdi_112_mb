@@ -1,0 +1,25 @@
+.navbar-brand {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.navbar-brand:hover{
+    background-color: lightgray;
+    font-weight: bolder;
+    color: black;
+}
+
+.navbar-nav .nav-link {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: lightgray;
+    font-weight: bolder;
+    color: black;
+}
